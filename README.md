@@ -1,1 +1,1 @@
-# Maps
+# Figures for scientific papers
